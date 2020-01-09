@@ -1,0 +1,6 @@
+C:\Users\anupa\source\repos\TestApp\FizzBuzzLib\bin\Debug\FizzBuzzLib.dll
+C:\Users\anupa\source\repos\TestApp\FizzBuzzLib\bin\Debug\FizzBuzzLib.pdb
+C:\Users\anupa\source\repos\TestApp\FizzBuzzLib\obj\Debug\FizzBuzzLib.csprojAssemblyReference.cache
+C:\Users\anupa\source\repos\TestApp\FizzBuzzLib\obj\Debug\FizzBuzzLib.csproj.CoreCompileInputs.cache
+C:\Users\anupa\source\repos\TestApp\FizzBuzzLib\obj\Debug\FizzBuzzLib.dll
+C:\Users\anupa\source\repos\TestApp\FizzBuzzLib\obj\Debug\FizzBuzzLib.pdb

@@ -1,0 +1,10 @@
+C:\Users\anupa\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\anupa\source\repos\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\anupa\source\repos\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\anupa\source\repos\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\anupa\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\anupa\source\repos\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\anupa\source\repos\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\anupa\source\repos\TestApp\TestApp\bin\Debug\FizzBuzzLib.dll
+C:\Users\anupa\source\repos\TestApp\TestApp\bin\Debug\FizzBuzzLib.pdb
+C:\Users\anupa\source\repos\TestApp\TestApp\obj\Debug\TestApp.csproj.CopyComplete
